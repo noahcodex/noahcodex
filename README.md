@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noahcodex
+- 👀 I’m interested in code
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ML
